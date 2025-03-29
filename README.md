@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://www.linkedin.com/in/cesar-zubilete/)
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -77,7 +77,6 @@
 - **Coffee Shop Next:** Aplicación Full Stack para una cafetería, implementada con React, TypeScript, Next.js, Zustand y Prisma. [Repositorio](https://github.com/brizusan/coffee-shop-next)
 - **Frontend Mentor Solutions:** Soluciones a retos de Frontend Mentor, utilizando diversas tecnologías y enfoques para mejorar habilidades frontend. [Repositorio](https://github.com/brizusan/FrontendMentor-Solutions)
 
-### Contacto
-- **LinkedIn:** [perfil](https://www.linkedin.com/in/cesar-zubilete/)
+
 
 ¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y siempre dispuesto a aprender y compartir conocimientos.
